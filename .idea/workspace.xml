@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6e47869-4eab-457b-b4c0-b606e15bf233" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1724292334" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1724292333" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2k9d2a71FBlRPdMbbgrGhCz4X1A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for checkOutput.CheckPro.executor": "Run",
+    "Python tests.Python tests for checkOutput.TestCheckPro.executor": "Run",
+    "Python tests.Python tests for checkOutput.TestCheckPro.test_exact_match.executor": "Run",
+    "Python tests.Python tests for checkOutput.TestCheckPro.testcase01_exact_match.executor": "Run",
+    "Python tests.Python tests for checkOutput.checkPro.executor": "Run",
+    "Python tests.Python tests for jsonschema_assert.TestJSONSchemaValidation.executor": "Run",
+    "Python tests.Python tests for jsonschema_assert.TestJSONSchemaValidation.test_json_data.executor": "Run",
+    "Python tests.Python tests for test_addNoteGroup.TestPro.executor": "Run",
+    "Python tests.Python tests for test_addNoteGroup.TestPro.testCase01_addNoteGroup_major.executor": "Run",
+    "Python tests.Python tests for test_deleteGroup.TestPro.testCase01_deleteGroup_major.executor": "Run",
+    "Python tests.Python tests for test_deleteNote.TestPro.executor": "Run",
+    "Python tests.Python tests for test_deleteNote.TestPro.testCase01_deleteNote_major.executor": "Run",
+    "Python tests.Python tests for test_deleteRecycleNote.TestPro.executor": "Run",
+    "Python tests.Python tests for test_deleteRecycleNote.TestPro.testCase01_deleteRecycleNote_major.executor": "Run",
+    "Python tests.Python tests for test_demo.TestAPISchemaValidation.executor": "Run",
+    "Python tests.Python tests for test_demo.TestAPISchemaValidation.test_api_response.executor": "Run",
+    "Python tests.Python tests for test_getCalendarNote.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getCalendarNote.TestPro.testCase01_getCalendarNote_major.executor": "Run",
+    "Python tests.Python tests for test_getGroupList.TestPro.testCase01_getGroupList_major.executor": "Run",
+    "Python tests.Python tests for test_getGroupNoteList.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getGroupNoteList.TestPro.testCase01_getGroupNoteList_major.executor": "Run",
+    "Python tests.Python tests for test_getIndexNoteList.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getIndexNoteList.TestPro.testCase01_getIndexNoteList_major.executor": "Run",
+    "Python tests.Python tests for test_getNoteContent.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getNoteContent.TestPro.testCase01_getNoteContent_major.executor": "Run",
+    "Python tests.Python tests for test_getNoteGroupList.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getNoteGroupList.TestPro.testCase01_getNoteGroupList_major.executor": "Run",
+    "Python tests.Python tests for test_getRecycleNoteList.TestPro.executor": "Run",
+    "Python tests.Python tests for test_getRecycleNoteList.TestPro.testCase01_getRecycleNoteList_major.executor": "Run",
+    "Python tests.Python tests for test_handle.GetIndexNoteHandle.testCase01_getIndexNote_handle_.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase01_getIndexNote_input_missUserid.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase02_getIndexNote_input_miss_startindex.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase04_getIndexNote_input_wps_sid_invalid.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase05_getIndexNote_input_wps_sid_expire.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase06_getIndexNote_input_userid_overlength.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase09_getIndexNote_input_userid_minint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase10_getIndexNote_input_userid_maxint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase11_getIndexNote_input_userid_float.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase12_getIndexNote_input_userid_str.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase13_getIndexNote_input_userid_strNumber.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase14_getIndexNote_input_startindex_overlength.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase14_getIndexNote_input_userid_null.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase16_getIndexNote_input_startindex_minus1.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase17_getIndexNote_input_startindex_minint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase18_getIndexNote_input_startindex_maxint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase19_getIndexNote_input_startindex_float.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase19_getIndexNote_input_startindex_str.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase19_getIndexNote_input_startindex_strNumber.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase20_getIndexNote_input_startindex_strNumber.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase21_getIndexNote_input_startindex_null.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase22_getIndexNote_input_rows_overlength.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase23_getIndexNote_input_rows_minus1.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase24_getIndexNote_input_rows_minint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase25_getIndexNote_input_rows_maxint.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase26_getIndexNote_input_rows_float.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase27_getIndexNote_input_rows_str.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase28_getIndexNote_input_rows_strNumber.executor": "Run",
+    "Python tests.Python tests for test_input.GetIndexNoteInput.testCase29_getIndexNote_input_rows_null.executor": "Run",
+    "Python tests.Python tests for test_major.AddGroupMajor.executor": "Run",
+    "Python tests.Python tests for test_major.GetIndexNote.executor": "Run",
+    "Python tests.Python tests for test_major.GetIndexNote.testCase01_getIndexNote_major.executor": "Run",
+    "Python tests.Python tests for test_major.GetIndexNoteMajor.executor": "Run",
+    "Python tests.Python tests for test_major.GetIndexNoteMajor.testCase01_getIndexNote_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase01_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase02_updateNoteSubject_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase03_updateNoteContent_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase04_getNoteContent_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase05_deleteNote_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase06_getNoteGroupList_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase07_addNoteGroup_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase08_getGroupNoteList_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase09_deleteGroup_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase09_getCalendarNote_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase09_getRecycleNoteList_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase09_restoreRecycleNote_major.executor": "Run",
+    "Python tests.Python tests for test_major.TestPro.testCase10_deleteRecycleNote_major.executor": "Run",
+    "Python tests.Python tests for test_restoreRecycleNote.TestPro.executor": "Run",
+    "Python tests.Python tests for test_restoreRecycleNote.TestPro.testCase09_restoreRecycleNote_major.executor": "Run",
+    "Python tests.Python tests for test_updateNoteContent.TestPro.testCase01_updateNoteContent_major.executor": "Run",
+    "Python tests.Python tests for xixi.TestCheckPro.executor": "Run",
+    "Python tests.Python tests for xixi.TestJSONSchemaValidation.executor": "Run",
+    "Python tests.Python tests for xixi.TestJSONSchemaValidation.test_json_data.executor": "Run",
+    "Python tests.Python tests for xixi2.TestCheckPro.executor": "Run",
+    "Python tests.Python tests for xixi2.TestCheckPro.test_inconsistent_values.executor": "Run",
+    "Python tests.Python tests in checkOutput.py.executor": "Run",
+    "Python tests.Python tests in jsonschema_assert.py.executor": "Run",
+    "Python tests.Python tests in test_addNoteGroup.py.executor": "Run",
+    "Python tests.Python tests in test_deleteGroup.py.executor": "Run",
+    "Python tests.Python tests in test_deleteNote.py.executor": "Run",
+    "Python tests.Python tests in test_deleteRecycleNote.py.executor": "Run",
+    "Python tests.Python tests in test_getCalendarNote.py.executor": "Run",
+    "Python tests.Python tests in test_getGroupList.py.executor": "Run",
+    "Python tests.Python tests in test_getGroupNoteList.py.executor": "Run",
+    "Python tests.Python tests in test_getIndexNoteList.py.executor": "Run",
+    "Python tests.Python tests in test_getNoteContent.py.executor": "Run",
+    "Python tests.Python tests in test_getNoteGroupList.py.executor": "Run",
+    "Python tests.Python tests in test_getRecycleNoteList.py.executor": "Run",
+    "Python tests.Python tests in test_handle.py.executor": "Run",
+    "Python tests.Python tests in test_input.py.executor": "Run",
+    "Python tests.Python tests in test_major.py.executor": "Run",
+    "Python tests.Python tests in test_restoreRecycleNote.py.executor": "Run",
+    "Python tests.Python tests in unittest_wps.executor": "Debug",
+    "Python tests.Python tests in xixi.py.executor": "Run",
+    "Python tests.Python tests in xixi2.py.executor": "Run",
+    "Python.caseLogs.executor": "Run",
+    "Python.data_clear.executor": "Run",
+    "Python.data_create.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.xixi.executor": "Run",
+    "Python.xixi2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Desktop/homin_test/apitest/unittest_wpsNote",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\homin_test\apitest\unittest_wpsNote" />
+      <recent name="E:\Desktop\unittest_wpsNote(3)\unittest_wpsNote\testcase\getIndexNote" />
+      <recent name="E:\Desktop\unittest_wpsNote\unittest_wpsNote\testcase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\unittest_wpsNote(2)\unittest_wpsNote\testcase" />
+      <recent name="C:\Users\akito\Desktop\unittest_wpsNote(1)\unittest_wpsNote\testcase" />
+      <recent name="E:\Desktop\unittest_wpsNote\unittest_wpsNote\unfinished" />
+      <recent name="E:\Desktop\unittest_wpsNote\unittest_wpsNote\testcase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_major.AddGroupMajor">
+    <configuration name="xixi2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unittest_wps" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xixi2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_handle.GetIndexNoteHandle.testCase01_getIndexNote_handle_" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="unittest_wps" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/getIndexNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_handle.GetIndexNoteHandle.testCase01_getIndexNote_handle_&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_major.AddGroupMajor" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="unittest_wps" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/addGroup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_major.AddGroupMajor&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_major.GetIndexNoteMajor.testCase01_getIndexNote_major" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="unittest_wps" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/getIndexNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_major.GetIndexNoteMajor.testCase01_getIndexNote_major&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_handle.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="unittest_wps" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/getIndexNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/getIndexNote/test_handle.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_major.AddGroupMajor" />
+        <item itemvalue="Python.xixi2" />
+        <item itemvalue="Python tests.Python tests for test_handle.GetIndexNoteHandle.testCase01_getIndexNote_handle_" />
+        <item itemvalue="Python tests.Python tests in test_handle.py" />
+        <item itemvalue="Python tests.Python tests for test_major.GetIndexNoteMajor.testCase01_getIndexNote_major" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e47869-4eab-457b-b4c0-b606e15bf233" name="Changes" comment="" />
+      <created>1722699519506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722699519506</updated>
+      <workItem from="1722699520607" duration="5433000" />
+      <workItem from="1722746474579" duration="1830000" />
+      <workItem from="1722910476166" duration="13834000" />
+      <workItem from="1722949893443" duration="4996000" />
+      <workItem from="1722994017320" duration="18702000" />
+      <workItem from="1723034191904" duration="3198000" />
+      <workItem from="1723121398304" duration="7019000" />
+      <workItem from="1723167755269" duration="19806000" />
+      <workItem from="1723207374568" duration="4492000" />
+      <workItem from="1723360956480" duration="3450000" />
+      <workItem from="1723444176996" duration="5103000" />
+      <workItem from="1723464376563" duration="7389000" />
+      <workItem from="1723511705839" duration="22389000" />
+      <workItem from="1724225310782" duration="7021000" />
+      <workItem from="1724290434700" duration="1047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unittest_wps$.coverage" NAME=" Coverage Results" MODIFIED="1722748205597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$data_create.coverage" NAME="data_create Coverage Results" MODIFIED="1723520210010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/businessCommon" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$main.coverage" NAME="main Coverage Results" MODIFIED="1723471009859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$xixi2.coverage" NAME="xixi2 Coverage Results" MODIFIED="1723797945908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$data_clear.coverage" NAME="data_clear Coverage Results" MODIFIED="1723126517154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/businessCommon" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$.coverage" NAME=" Coverage Results" MODIFIED="1723799474163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/addGroup" />
+    <SUITE FILE_PATH="coverage/unittest_wps$main.coverage" NAME="main Coverage Results" MODIFIED="1722748072037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$xixi.coverage" NAME="xixi Coverage Results" MODIFIED="1723208777560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unfinished" />
+    <SUITE FILE_PATH="coverage/unittest_wpsNote$caseLogs.coverage" NAME="caseLogs Coverage Results" MODIFIED="1723447495774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+  </component>
+</project>
